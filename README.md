@@ -1,6 +1,8 @@
 # Junior Fullstack Developer
 
-#### Technical Skills: Java, Javascript, React, HTML5, CSS3, Node JS, Express JS, MUI, PostgreSQL, Mongo DB, Git, Spring, Maven, Jwt, Postman, Swagger, MS Office, G Suite, Docker, Github, Jira, Lucidchart, Visual Basic
+### Technical Skills: 
+
+Java, Javascript, React, HTML5, CSS3, Node JS, Express JS, MUI, PostgreSQL, Mongo DB, Git, Spring, Maven, Jwt, Postman, Swagger, MS Office, G Suite, Docker, Github, Jira, Lucidchart, Visual Basic
 
 ## Education
 - Certificate, Junior Fullstack Developer | Codecool (_January 2024_)								       		
@@ -9,8 +11,8 @@
 
 ## Work Experience
 
-- **IBM | Accounting Specialist** | (_January 2020 - October 2022_)	
-- **Capgemini | Finance & Accounting Process Specialist** | (_October 2017 - December 2019_)	
+- IBM | Accounting Specialist | _January 2020 - October 2022_	
+- Capgemini | Finance & Accounting Process Specialist | _October 2017 - December 2019_
 
 ## Projects
 
