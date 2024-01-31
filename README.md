@@ -9,8 +9,8 @@
 
 ## Work Experience
 
-- **IBM - Accounting Specialist** (_January 2020 - October 2022_)	
-- **Capgemini -  Finance & Accounting Process Specialist** (_October 2017 - December 2019_)	
+- **IBM | Accounting Specialist** | (_January 2020 - October 2022_)	
+- **Capgemini | Finance & Accounting Process Specialist** | (_October 2017 - December 2019_)	
 
 ## Projects
 
